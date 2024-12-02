@@ -1,0 +1,4 @@
+__pycache__
+monitoring.db
+monitoring.log
+.env
